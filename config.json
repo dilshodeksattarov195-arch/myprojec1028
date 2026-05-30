@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentsonnect",
+        "uuid": 3015124,
+        "checksum": "e1uyhtc"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
